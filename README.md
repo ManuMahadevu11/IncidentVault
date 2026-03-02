@@ -91,7 +91,7 @@ Archive: /tmp/rca_<hostname>_<timestamp>.tar.gz
 
 ### **Step 1: Download the Script**
 ```bash
-wget -O /usr/local/bin/rca_script.sh https://your-repo/rca_script.sh
+wget -O /usr/local/bin/rca_script.sh https://github.com/ManuMahadevu11/IncidentVault/rca_script.sh
 # OR
 cp rca_script.sh /usr/local/bin/
 chmod +x /usr/local/bin/rca_script.sh
